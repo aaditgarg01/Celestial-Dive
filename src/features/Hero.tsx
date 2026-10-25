@@ -6,8 +6,8 @@ export function Hero() {
       <div className="hero-image" aria-hidden="true">
         <img
           src="/assets/stargazing-night.webp"
-          width="1536"
-          height="1024"
+          width="1672"
+          height="941"
           fetchPriority="high"
           alt=""
         />

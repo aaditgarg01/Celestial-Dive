@@ -1,5 +1,7 @@
 # Celestial Dive 5.0
 
+**Live website:** [celestial-dive.vercel.app](https://celestial-dive.vercel.app/) · **Repository:** [aaditgarg01/Celestial-Dive](https://github.com/aaditgarg01/Celestial-Dive)
+
 A responsive, single-page frontend for **VIT Stellar’s stargazing event**. Built with **React, TypeScript, and Vite**, adapting the useful foundation patterns from [Aerovate](https://github.com/aaditgarg01/Aerovate) to an original night-sky design.
 
 The website includes a floating club header with a keyboard-accessible menu, event introduction and details, interactive telescope artwork, a seven-star Orion explorer, a five-edition archive with POC slots, a gallery with edition filters and a full-screen viewer, FAQs, contact channels, and team profile links.
