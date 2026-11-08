@@ -36,6 +36,7 @@ The repository root is the application root. There is no second nested app folde
 | Event photographs                               | `src/config/content.ts` → `photos`    |
 | Colours, typography and responsive layouts      | `src/styles/global.css`               |
 | Hero artwork                                    | `public/assets/stargazing-night.webp` |
+| FAQ planet backdrop                             | `public/assets/faq-planet.jpg`        |
 | Page title and social metadata                  | `index.html`                          |
 
 The date, time, venue, registration link, archive stories, POC details, and event photographs are **not confirmed**. The initial website clearly marks these as pending. Do not reuse Aerovate dates, partners, venues, registration links, rocket assets, or event photographs here.
